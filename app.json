@@ -1,0 +1,20 @@
+{
+  "$schema": "../exact/scripts/app.schema.json",
+  "name": "Hello Exact",
+  "short_name": "Hello Exact",
+  "id": "com.example.hello-exact-4a1a24",
+  "start_url": "/",
+  "display": "standalone",
+  "app": {
+    "id": "com.example.hello-exact-4a1a24",
+    "name": "Hello Exact"
+  },
+  "host": {
+    "web": {}
+  },
+  "deploy": {
+    "store": {
+      "web": "0"
+    }
+  }
+}
